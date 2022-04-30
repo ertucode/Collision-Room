@@ -1,8 +1,11 @@
 # Collision-Room
 
-+, -: Control FPS
-SPACE: Spawn balls
-DELETE: Delete balls
+**+, -:** Control FPS
 
-UP_ARROW: Naive collision
-DOWN_ARROW: Sweep and prune collision
+**SPACE:** Spawn balls
+
+**DELETE:** Delete balls
+
+**UP_ARROW:** Naive collision
+
+**DOWN_ARROW:** Sweep and prune collision
